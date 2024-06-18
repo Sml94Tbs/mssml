@@ -1,7 +1,11 @@
 const About = () => {
-    return (
-        <section>
-            About
-        </section>
-    )
-}
+  return (
+    <section>
+      <div>
+        <ul>
+            <li></li>
+        </ul>
+      </div>
+    </section>
+  );
+};
